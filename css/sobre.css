@@ -1,0 +1,68 @@
+.interna_sobre{
+
+
+    background-image: url("../img/banner-sobre.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.missao_sobre{
+
+    padding-top: 60px;
+
+}
+
+
+.missao_sobre p{
+
+   font-size: 18px;
+   line-height: 25px;
+    margin-bottom: 1em;
+    padding-right: 60px;
+}
+
+.missao_sobre ul li{
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    line-height: 30px;
+
+}
+
+
+.foto_footer{
+    padding-top: 40px;
+}
+
+
+.text-footer p{
+    max-width: 400px;
+    color: #000;
+    margin: 0 auto;
+    font-style: italic;
+    margin-bottom: 40px;
+}
+
+.text-footer p::before, .text-footer p::after{
+
+    content: "";
+    display: block;
+    width: 150px;
+    height: 3px;
+    background-color: #000;
+    margin: 15px auto 15px auto;
+
+
+}
+
+.text-footer cite{
+
+
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    letter-spacing: .1em;
+
+
+}
